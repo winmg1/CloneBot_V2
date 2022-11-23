@@ -1,4 +1,4 @@
 #!/bin/bash
 
-unzip *.zip
-python3 telegram_gcloner.py
+unzip "telegram_gcloner/gclone.zip"
+python3 telegram_gcloner/telegram_gcloner.py
