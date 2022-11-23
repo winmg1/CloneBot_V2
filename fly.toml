@@ -1,11 +1,11 @@
 # Set app name below, replace APP-NAME
-app = "APP-NAME"
+app = "bot"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
 [env]
-CONFIG_FILE_URL = "URL_HERE"
+CONFIG_FILE_URL = "https://www.dropbox.com/s/ncyglmfeiouiznm/config.ini"
 
 # No need to touch below
 
